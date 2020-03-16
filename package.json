@@ -1,0 +1,38 @@
+{
+  "name": "xstate-actor-supervisor-using-redux",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@types/react-redux": "7.1.7",
+    "@types/redux-logger": "3.0.7",
+    "@xstate/react": "1.0.0-rc.3",
+    "fp-ts": "2.5.3",
+    "react": "16.13.0",
+    "react-dom": "16.13.0",
+    "react-redux": "7.2.0",
+    "react-scripts": "3.4.0",
+    "redux": "4.0.5",
+    "redux-logger": "3.0.6",
+    "typescript": "3.8.3",
+    "xstate": "4.7.8"
+  },
+  "devDependencies": {
+    "@types/react": "16.9.19",
+    "@types/react-dom": "16.9.5",
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
